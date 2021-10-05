@@ -1,0 +1,6 @@
+html,
+body,
+canvas {
+  overflow: hidden;
+  margin: 0px;
+}
